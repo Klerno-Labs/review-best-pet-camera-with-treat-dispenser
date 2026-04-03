@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-best-pet-camera-with-treat-dispenser/sitemap.xml
